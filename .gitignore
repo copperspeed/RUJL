@@ -1,4 +1,8 @@
 /vendor
 /node_modules
+/public/js/libs
+/public/css
+/public/fonts
+/public/bragimages
 Homestead.yaml
 .env

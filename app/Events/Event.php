@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace RUJL\Events;
 
 abstract class Event
 {

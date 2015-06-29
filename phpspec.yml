@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: RUJL
+        psr4_prefix: RUJL
         src_path: app

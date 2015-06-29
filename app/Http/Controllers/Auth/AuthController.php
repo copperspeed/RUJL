@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace RUJL\Http\Controllers\Auth;
 
-use App\User;
+use RUJL\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use RUJL\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
 class AuthController extends Controller
